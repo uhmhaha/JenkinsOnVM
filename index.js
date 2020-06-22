@@ -11,8 +11,8 @@ app.get('/start', function(req, res){
     res.send('start page!');
 });
 
-app.get('/hello', function(req, res){
-    res.send('hello');
+app.get('/hello1', function(req, res){
+    res.send('hello1');
 });
 
 server.listen(3000, '127.0.0.1', function(){
