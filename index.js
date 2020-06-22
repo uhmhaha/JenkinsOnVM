@@ -8,7 +8,7 @@ app.get('/', function(req, res){
 });
 
 app.get('/start', function(req, res){
-    res.send('start3 page!');
+    res.send('start05 page!');
 });
 
 app.get('/hello4', function(req, res){
